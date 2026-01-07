@@ -1,5 +1,4 @@
- SELECT * FROM project1.`sql - retail sales analysis_utf`
-limit 1000;
+ 
 SELECT * FROM project1.`sql - retail sales analysis_utf`
 where
 transactions_id is null
